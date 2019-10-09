@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScriptEngine", "ScriptEngine\ScriptEngine.csproj", "{91454F20-50B0-4428-A770-660AF9B72364}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScriptEngineTest", "ScriptEngineTest\ScriptEngineTest.csproj", "{5B4B2178-A2B0-413D-BBC0-EFC7BC06136E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91454F20-50B0-4428-A770-660AF9B72364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91454F20-50B0-4428-A770-660AF9B72364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91454F20-50B0-4428-A770-660AF9B72364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91454F20-50B0-4428-A770-660AF9B72364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B4B2178-A2B0-413D-BBC0-EFC7BC06136E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B4B2178-A2B0-413D-BBC0-EFC7BC06136E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B4B2178-A2B0-413D-BBC0-EFC7BC06136E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B4B2178-A2B0-413D-BBC0-EFC7BC06136E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17D26901-149E-48BE-A740-1EC97FA56ED2}
+	EndGlobalSection
+EndGlobal
