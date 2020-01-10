@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/ScriptEngine/obj
+/ScriptEngine/bin/Debug
+/ScriptEngineTest/obj
+/ScriptEngineTest/bin/Debug
